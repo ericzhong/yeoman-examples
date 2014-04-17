@@ -9,7 +9,8 @@ Yeoman examples modified from [here](https://github.com/addyosmani/yeoman-exampl
 
 Install requirements
 
-    grunt install && bower install
+    npm install && bower install
+    cd test && bower install
 
 Run service
 
